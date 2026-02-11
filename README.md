@@ -4,8 +4,6 @@
 
 
 
-![alt text](file_00000000cc907243853c37ad67a64294.png)
-
 ## Descripción
 
 Desarrollador full-stack en formación, apasionado por la ingeniería de software, la informática y la IA. Me gusta diseñar arquitecturas escalables, escribir código limpio y mantener un flujo de trabajo basado en buenas prácticas (Git, Python, JavaScript, frontend y backend con frameworks como React/Next.js, Node.js, Django/Flask). Disfruto explorando APIs, modelos de IA (LangChain, TensorFlow) y construyendo productos que aporten valor real a usuarios y empresas. Siempre estoy iterando, aprendiendo nuevas tecnologías y refactorizando soluciones para llevar los proyectos al siguiente nivel
