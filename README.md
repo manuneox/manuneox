@@ -2,9 +2,6 @@
 
 ## Estudiante de desarrollo full-stack, apasionado por la informática y la inteligencia artificial, siempre buscando aprender y crear soluciones innovadoras con tecnología.
 
-<div align="center">
-![Mi setup nocturno](https://github.com/ManuelFernandez/ManuelFernandez/raw/main/file_00000000cc907243853c37ad67a64294.jpg)
-</div>
 
 
 ## Descripción
